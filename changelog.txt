@@ -1,0 +1,11 @@
+Changelog:
+
+8.7.16 - The website is up and running online!
+
+- A page for each album with direct download/store/listening links.
+- Album/song artwork page
+- Contact page with 'homestyle captcha'
+- Changelog
+- Probably nothing else
+
+I own the domain 'samhmusic.com' and plan to connect it to this site, but haven't been able to get it working yet. The root page is currently 'samhmusic.github.io' which is definitely less catchy but will have to do for now.
