@@ -9,3 +9,5 @@ Changelog:
 - Probably nothing else
 
 I own the domain 'samhmusic.com' and plan to connect it to this site, but haven't been able to get it working yet. The root page is currently 'samhmusic.github.io' which is definitely less catchy but will have to do for now.
+
+8.8.16 - All .html files have been given a page-style layout, rather than just having all the text on a solid background color! The title of the site is accessible from all these pages, and able to be clicked to bring you back to the home page.
