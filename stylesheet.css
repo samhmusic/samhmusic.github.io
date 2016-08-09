@@ -1,5 +1,5 @@
 #main {
-	width: 70%;
+	width: 60%;
 	background-color: rgb(143,186,211);
 	padding: 20px;
 	border: solid;
@@ -14,7 +14,10 @@
 	border-left: solid;
 	border-bottom: solid;
 	background-color: green;
-	position: relative;
+}
+
+#sidebar-content {
+	margin: 5px;
 }
 
 body {
