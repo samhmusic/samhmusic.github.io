@@ -11,3 +11,5 @@ Changelog:
 I own the domain 'samhmusic.com' and plan to connect it to this site, but haven't been able to get it working yet. The root page is currently 'samhmusic.github.io' which is definitely less catchy but will have to do for now.
 
 8.8.16 - All .html files have been given a page-style layout, rather than just having all the text on a solid background color! The title of the site is accessible from all these pages, and able to be clicked to bring you back to the home page.
+
+8.9.16 - Created a stylesheet for all pages to use, added a table to the first album page to make it simple to select the file(s) you want to download. There aren't download links to the .ogg files yet. Also made the main div element take up a fixed percentage of the screen. Hopefully this makes the site somewhat more presentable on mobile.
