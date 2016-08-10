@@ -1,17 +1,12 @@
 <?xml version="1.0"?>
 <rss version="2.0">
 <channel>
-	<title>SamHendrickson</title>
+	<title>Sam Hendrickson</title>
 	<link>https://samhmusic.github.io/</link>
 	<description>My released music!</description>
 	<item>
 	<title>a test text file</title>
 	<link>https://samhmusic.github.io/peanutbutter.txt</link>
-	<description>test description</description>
-	</item>
-	<item>
-	<title>2</title>
-	<link>https://samhmusic.github.io/Arena.mp3</link>
 	<description>test description</description>
 	</item>
 </channel>
