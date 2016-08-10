@@ -9,5 +9,11 @@
 	<link>https://samhmusic.github.io/peanutbutter.txt</link>
 	<description>test description</description>
 	</item>
+	<item>
+	<title>can i link offsite?</title>
+	<link>https://drive.google.com/uc?export=download&id=0B1070C_Qe3h6WVVRTXhCQlA5QVU</link>
+	<guid>https://drive.google.com/uc?export=download&id=0B1070C_Qe3h6WVVRTXhCQlA5QVU</guid>
+	<description>we'll see soon enough</description>
+	</item>
 </channel>
 </rss>
