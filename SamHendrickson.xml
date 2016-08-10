@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss version="2.0">
 <channel>
-	<title>Sam Hendrickson</title>
+	<title>SamHendrickson</title>
 	<link>https://samhmusic.github.io/</link>
 	<description>My released music!</description>
 	<item>
@@ -14,6 +14,11 @@
 	<link>https://drive.google.com/uc?export=download&id=0B1070C_Qe3h6WVVRTXhCQlA5QVU</link>
 	<guid>https://drive.google.com/uc?export=download&id=0B1070C_Qe3h6WVVRTXhCQlA5QVU</guid>
 	<description>we'll see soon enough</description>
+	</item>
+	<item>
+	<title>2</title>
+	<link>https://samhmusic.github.io/Arena.mp3</link>
+	<description>test description</description>
 	</item>
 </channel>
 </rss>
