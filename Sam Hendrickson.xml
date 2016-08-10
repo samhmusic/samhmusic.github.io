@@ -1,15 +1,13 @@
-<?xml version"1.0" encoding="utf-8"?>
+<?xml version="1.0"?>
 <rss version="2.0">
 <channel>
-<title>Sam Hendrickson</title>
-<link>https://samhmusic.github.io/</link>
-<description>My released music!</description>
-<item>
-<title>a test text file<title>
-<link>https://samhmusic.github.io/peanutbutter.txt</link>
-<guid>https://samhmusic.github.io/peanutbutter.txt</guid>
-<pubDate>Tue, 8 Aug 2016 23:49:00 GMT</pubDate>
-<description>test description</description>
-</item>
+	<title>Sam Hendrickson</title>
+	<link>https://samhmusic.github.io/</link>
+	<description>My released music!</description>
+	<item>
+	<title>a test text file<title>
+	<link>https://samhmusic.github.io/peanutbutter.txt</link>
+	<description>test description</description>
+	</item>
 </channel>
 </rss>
