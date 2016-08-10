@@ -6,8 +6,8 @@
 	<description>My released music!</description>
 	<item>
 	<title>html test</title>
-	<link>samhmusic.github.io/music-rec.html</link>
-	<guid>samhmusic.github.io/music-rec.html</guid>
+	<link>https://samhmusic.github.io/music-rec.html</link>
+	<guid>https://samhmusic.github.io/music-rec.html</guid>
 	<description>test description</description>
 	</item>
 </channel>
