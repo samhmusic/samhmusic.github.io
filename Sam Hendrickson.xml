@@ -5,8 +5,9 @@
 	<link>https://samhmusic.github.io/</link>
 	<description>My released music!</description>
 	<item>
-	<title>a test text file</title>
-	<link>https://samhmusic.github.io/peanutbutter.txt</link>
+	<title>html test</title>
+	<link>samhmusic.github.io/music-rec.html</link>
+	<guid>samhmusic.github.io/music-rec.html</guid>
 	<description>test description</description>
 	</item>
 </channel>
