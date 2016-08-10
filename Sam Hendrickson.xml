@@ -7,10 +7,10 @@
 	<description></description>
 
 	<item>
-	<title></title>
-	<link></link>
-	<guid></guid>
-	<description></description>
+	<title>another html test</title>
+	<link>https://samhmusic.github.io/peanutbutter.txt</link>
+	<guid>https://samhmusic.github.io/peanutbutter.txt</guid>
+	<description>So here we got a description. <a href="https://samhmusic.github.io/art/canary.png">do links work</a></description>
 	</item>
 
 </channel>
