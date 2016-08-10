@@ -10,5 +10,11 @@
 	<guid>https://samhmusic.github.io/music-rec.html</guid>
 	<description>test description</description>
 	</item>
+	<item>
+	<title>CHOONKA CHOONKA</title>
+	<link>https://samhmusic.github.io/faq.html</link>
+	<guid>https://samhmusic.github.io/faq.html</guid>
+	<description>babroonka shroonka desc</description>
+	</item>
 </channel>
 </rss>

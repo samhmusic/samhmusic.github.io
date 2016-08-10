@@ -49,3 +49,7 @@ a:visited {
 table, th, td {
 border: solid 1px;
 }
+
+.secret-text {
+	color: rgb(0,100,100);
+}
