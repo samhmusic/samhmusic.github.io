@@ -1,21 +1,27 @@
 #main {
 	width: 60%;
 	background-color: rgb(143,186,211);
-	padding: 20px 0px 20px 20px;
+	padding: 20px;
 	border: solid;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #sidebar {
+	width: 60%;
 	background-color: green;
-	float: right;
-	border-bottom: solid;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-top: solid;
 	border-left: solid;
+	border-right: solid;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #sidebar-content {
 	padding: 5px;
+	text-align: center;
 }
 
 body {
@@ -24,6 +30,15 @@ body {
 
 p {
 	margin: 0;
+}
+
+#sidebar-content a {
+	background-color: rgb(0,200,0);
+	color: black;
+	padding-left: 35px;
+	padding-right: 35px;
+	font-weight: bold;
+	border: solid;
 }
 
 #sitetitle {
