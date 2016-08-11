@@ -7,10 +7,15 @@
 	<description></description>
 
 	<item>
-	<title>2 another html test</title>
-	<link>https://samhmusic.github.io/peanutbutter.txt</link>
-	<guid></guid>
-	<description>So here we got a description. <![CDATA[ <a href="https://samhmusic.github.io/art/canary.png">do links work</a>]]></description>
+	<title>Song - Dancing with Draugrs</title>
+	<link>https://samhmusic.github.io/sp5.html</link>
+	<guid>https://samhmusic.github.io/sp5.html</guid>
+	<description>This song alternates between two different moods; the title is a bit of an indication of that.
+	<![CDATA[
+	<a href="https://drive.google.com/uc?export=download&id=0B1070C_Qe3h6ajhtSWV2cF9lR3c">Download</a>
+	<a href="https://www.youtube.com/watch?v=b_qMj4cd5bY">Youtube</a>
+	]]>
+	</description>
 	</item>
 
 </channel>
