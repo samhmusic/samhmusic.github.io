@@ -5,20 +5,6 @@
 	<title>Sam Hendrickson</title>
 	<link>https://samhmusic.github.io/</link>
 	<description></description>
-
-	<item>
-	<title>Song - Dancing with Draugrs</title>
-	<link>https://samhmusic.github.io/sp5.html</link>
-	<guid>https://samhmusic.github.io/sp5.html</guid>
-	<description>This song alternates between two different moods; the title is a bit of an indication of which moods...
-	<![CDATA[
-	<br><br>
-	<a href="https://drive.google.com/uc?export=download&id=0B1070C_Qe3h6ajhtSWV2cF9lR3c">Download</a>
-	<br>
-	<a href="https://www.youtube.com/watch?v=b_qMj4cd5bY">Youtube</a>
-	]]>
-	</description>
-	</item>
 	
 	<item>
 	<title>Song - Precursor</title>
@@ -29,6 +15,20 @@
 	<a href="https://drive.google.com/uc?export=download&id=0B1070C_Qe3h6RFFWUzYybnRMbXM">Download</a>
 	<br>
 	<a href="https://youtu.be/cl56YCdEx8c">Youtube</a>
+	]]>
+	</description>
+	</item>
+	
+	<item>
+	<title>Song - Dancing with Draugrs</title>
+	<link>https://samhmusic.github.io/sp5.html</link>
+	<guid>https://samhmusic.github.io/sp5.html</guid>
+	<description>This song alternates between two different moods; the title is a bit of an indication of which moods...
+	<![CDATA[
+	<br><br>
+	<a href="https://drive.google.com/uc?export=download&id=0B1070C_Qe3h6ajhtSWV2cF9lR3c">Download</a>
+	<br>
+	<a href="https://www.youtube.com/watch?v=b_qMj4cd5bY">Youtube</a>
 	]]>
 	</description>
 	</item>
