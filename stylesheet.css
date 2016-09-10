@@ -1,11 +1,11 @@
 /* DIVS */
 
 #main {
-	width: 50%;
+	width: 100%;
+	max-width: 900px;
 	background-color: rgb(143,186,211);
 	padding: 20px;
-	margin-left: auto;
-	margin-right: auto;
+	margin: auto;
 }
 
 body {
@@ -58,15 +58,17 @@ td a:link {
 
 #nav {
 	margin: auto;
-	width: 50%;
+	width: 100%;
+	max-width: 900px;
 	padding: 0 20px 0 20px;
 	background-color: rgb(0,150,0);
 }
 
 #nav ul {
-	margin: 0;
+	margin: auto;
 	text-align: center;
 	list-style-type: none;
+	padding-left: 0;
 }
 
 #nav li {
@@ -78,6 +80,7 @@ td a:link {
 	font-weight: bold;
 	color: black;
 	font-family: monospace;
+	text-align: center;
 }
 
 #nav li a:hover {
