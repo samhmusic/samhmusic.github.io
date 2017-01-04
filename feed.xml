@@ -3,7 +3,6 @@
 <channel>
 	<title>Sam Hendrickson</title>
 	<link>samhmusic.com/Sam%20Hendrickson.xml</link>
-	<description>Stuff that I make!</description>
 	<image>
 		<link>img/static-icon.jpg</link>
 		<url>img/static-icon.jpg</url>
@@ -12,8 +11,8 @@
 
 	<item>
 		<title>Song - Life in a Tunnel</title>
-		<link>https://samhmusic.com/media/tunnel.mp3</link>
-		<guid>https://samhmusic.com/media/tunnel.mp3</guid>
+		<link>https://www.youtube.com/watch?v=fRVCclgbZSI</link>
+		<guid>https://www.youtube.com/watch?v=fRVCclgbZSI</guid>
 	</item>
 
 </channel>
