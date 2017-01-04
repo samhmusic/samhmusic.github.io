@@ -3,8 +3,10 @@
 <channel>
 	<title>Sam Hendrickson</title>
 	<link>http://samhmusic.com/feed.xml</link>
+	<description></description>
 	<image>
-		<url>http://samhmusic.com/fav.ico</url>
+		<title>Sam Hendrickson</title>
+		<url>http://samhmusic.com/img/icon.png</url>
 	</image>
 
 
