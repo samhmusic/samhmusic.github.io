@@ -2,10 +2,10 @@
 <rss version="2.0">
 <channel>
 	<title>Sam Hendrickson</title>
-	<link>samhmusic.com/Sam%20Hendrickson.xml</link>
+	<link>samhmusic.com/feed.xml</link>
 	<image>
-		<link>img/static-icon.jpg</link>
-		<url>img/static-icon.jpg</url>
+		<link>fav.ico</link>
+		<url>fav.ico</url>
 	</image>
 
 
