@@ -12,7 +12,8 @@
 
 	<item>
 		<title>Song - Life in a Tunnel</title>
-		<link>samhmusic.com/media/tunnel.mp3</link>
+		<link>https://samhmusic.com/media/tunnel.mp3</link>
+		<guid>https://samhmusic.com/media/tunnel.mp3</guid>
 	</item>
 
 </channel>
