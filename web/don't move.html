@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Music</title>
+	<link rel="stylesheet" type="text/css" href="../style.css">
+	<link rel="shortcut icon" type="image/ico" href="../fav.ico"/>
+</head>
+<body>
+
+<h1 style="text-align: center;"><a href="index.html">sam hendrickson</a></h1>
+
+<div id="main">
+
+<p id="regtext">Whatever you do, don't move...</p>
+
+</div>
+
+<script>
+	var bhutan = document.getElementById("bhutan");
+	var words = document.getElementById("regtext");
+	var clicky = function() {
+		words.innerHTML = "<p style='font-size: 100px'><b>AHHH YOU MOVED!!!!</b><p>";
+		var page = document.getElementById("main");
+		main.style.backgroundColor = "Red";
+	}
+	document.addEventListener("mousemove", clicky);
+</script>
+
+</body>
+</html>
